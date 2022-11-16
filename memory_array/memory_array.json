@@ -1,0 +1,756 @@
+{
+"fruit":[
+    {
+        "name": "apple",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "apricot",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "avocado",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "banana",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "black_cherry",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "black_grapes",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "blackberry",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "blueberry",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "coconut",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "cranberry",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "cucumber",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "dates",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "dragonfruit",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "figs",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "gooseberry",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "grapefruit",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "guava",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "jackfruit",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "kiwi",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "lemon",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "lime",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "mango",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "melon",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "olive",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "orange",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "papaya",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "passionfruit",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "peach",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "pear",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "pineapple",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "raspberry",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "red_cherry",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "red_grapes",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "strawberry",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "watermelon",
+        "src": "",
+        "value": 0,
+        "id": 0
+    }
+],"superheld":[
+    {
+        "name": "ant_man",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "aquaman",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "batman",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "black_panther",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "black_widow",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "captain_america",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "captain_marvel",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "catwoman",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "colossus",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "cyborg",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "cyclops",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "daredevil",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "dash_parr",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "deadpool",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "doctor_strange",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "elastigirl",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "falcon",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "firestorm",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "flash",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "frozone",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "gambit",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "gamora",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "green_arrow",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "green_lantern",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "groot",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "gwen_stacy",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "hawkeye",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "hulk",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "human_torch",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "invisible_woman",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "iron_fist",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "iron_man",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "miles_morales",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "moon_knight",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "mr_incredible",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "nightcrawler",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "ninja_turtle",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "plastic_man",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "professor_x",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "punisher",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "quicksilver",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "red_tornado",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "robin",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "rocket",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "scarlet_witch",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "she_hulk",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "silver_surfer",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "spider_man",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "star_lord",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "superman",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "thing",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "thor",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "violet_parr",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "vision",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "war_machine",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "wasp",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "wolverine",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "wonder_woman",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "dr_manhattan",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "drax_the_destroyer",
+        "src": "",
+        "value": 0,
+        "id": 0
+    }
+],"developer":[
+    {
+        "name": "android_studio",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "angular",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "basic",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "c",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "c_sharp",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "c++",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "cobol",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "css",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "delphi",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "fortran",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "git",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "github",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "html",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "java",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "javascript",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "jquery",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "kotlin",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "node_js",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "npm",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "objective_c",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "pascal",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "perl",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "php",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "python",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "react",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "ruby",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "rust",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "sql",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "swift",
+        "src": "",
+        "value": 0,
+        "id": 0
+    },
+    {
+        "name": "typescript",
+        "src": "",
+        "value": 0,
+        "id": 0
+    }
+]
+}
